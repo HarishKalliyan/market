@@ -1,0 +1,74 @@
+{
+  "ENPLANING": [
+    {
+      "file": "file1.pdf",
+      "line": "ENPLANING 427,965 528,486 -19.02% 2,259,308 3,028,453 -25.40%"
+    },
+    {
+      "file": "file2.pdf",
+      "line": "ENPLANING 397,984 478,735 -16.87% 1,435,007 1,997,084 -28.14%"
+    },
+    {
+      "file": "file3.pdf",
+      "line": "PASSENGER TOTALS  ENPLANING 439,881 527,882 -16.67% 2,699,189 3,556,335 -24.10%"
+    },
+    {
+      "file": "file4.pdf",
+      "line": "PASSENGER TOTALS  ENPLANING 396,336 502,883 -21.19% 1,831,343 2,499,967 -26.75%"
+    }
+  ],
+  "DEPLANING": [
+    {
+      "file": "file1.pdf",
+      "line": "DEPLANING 422,829 520,853 -18.82% 2,266,591 3,048,117 -25.64%"
+    },
+    {
+      "file": "file2.pdf",
+      "line": "DEPLANING 395,370 478,018 -17.29% 1,444,614 2,023,718 -28.62%"
+    },
+    {
+      "file": "file3.pdf",
+      "line": "DEPLANING 441,670 529,081 -16.52% 2,708,261 3,577,198 -24.29%"
+    },
+    {
+      "file": "file4.pdf",
+      "line": "DEPLANING 399,148 503,546 -20.73% 1,843,762 2,527,264 -27.05%"
+    }
+  ],
+  "PAX CARRIERS": [
+    {
+      "file": "file1.pdf",
+      "line": "PAX CARRIERS 544,789 673,901 -19.16% 3,162,002 4,252,260 -25.64%"
+    },
+    {
+      "file": "file2.pdf",
+      "line": "PAX CARRIERS 526,890 681,622 -22.70% 2,068,993 2,896,252 -28.56%"
+    },
+    {
+      "file": "file3.pdf",
+      "line": "LANDED WEIGHTS (M lbs)  PAX CARRIERS 566,331 685,670 -17.40% 3,728,333 4,937,930 -24.50%"
+    },
+    {
+      "file": "file4.pdf",
+      "line": "LANDED WEIGHTS (M lbs)  PAX CARRIERS 548,220 682,107 -19.63% 2,617,213 3,578,359 -26.86%"
+    }
+  ],
+  "CARGO CARRIERS": [
+    {
+      "file": "file1.pdf",
+      "line": "CARGO CARRIERS 207,236 272,816 -24.04% 1,427,664 1,759,836 -18.88%"
+    },
+    {
+      "file": "file2.pdf",
+      "line": "CARGO CARRIERS 262,479 296,389 -11.44% 999,768 1,192,214 -16.14%"
+    },
+    {
+      "file": "file3.pdf",
+      "line": "CARGO CARRIERS"
+    },
+    {
+      "file": "file4.pdf",
+      "line": "CARGO CARRIERS 220,660 294,806 -25.15% 1,220,428 1,487,020 -17.93%"
+    }
+  ]
+}
